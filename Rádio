@@ -1,0 +1,248 @@
+🚀 PROMPT MESTRE — GERAR O SITE HTML
+
+OBJETIVO
+
+Crie um site completo em HTML5, pronto para funcionar no GitHub Pages, sem necessidade de servidor, banco de dados ou instalação.
+
+O resultado final deve ser um único arquivo:
+
+"index.html"
+
+O site deve funcionar diretamente ao abrir o arquivo no navegador e também quando publicado pelo GitHub Pages.
+
+---
+
+REGRAS PRINCIPAIS
+
+- Gerar HTML5 válido.
+- Usar "<!DOCTYPE html>".
+- Usar "<html lang="pt-BR">".
+- Responsivo para celular, tablet e computador.
+- Interface moderna e profissional.
+- Não utilizar backend.
+- Não exigir PHP.
+- Não exigir Node.js.
+- Não exigir banco de dados.
+- Não exigir hospedagem externa.
+- Todo o CSS e JavaScript necessário deve estar no próprio "index.html".
+- Evitar dependências externas sempre que possível.
+- O site deve continuar funcionando mesmo sendo aberto diretamente pelo navegador.
+- Não deixar áreas vazias ou funções falsas.
+- Todos os botões devem possuir uma função real.
+
+---
+
+ESTRUTURA
+
+Crie:
+
+/
+├── index.html
+└── README.md
+
+O "README.md" contém estas instruções.
+
+O "index.html" contém o sistema completo.
+
+---
+
+COMPATIBILIDADE
+
+O site deverá funcionar em:
+
+- Android
+- iPhone
+- Windows
+- Linux
+- macOS
+- Chrome
+- Edge
+- Firefox
+- Safari
+
+Priorize a experiência em smartphones.
+
+---
+
+INTERFACE
+
+Criar uma interface:
+
+- limpa;
+- rápida;
+- moderna;
+- profissional;
+- intuitiva;
+- adaptada para toque;
+- com boa hierarquia visual;
+- com animações suaves;
+- sem excesso de elementos.
+
+Utilizar design responsivo.
+
+---
+
+JAVASCRIPT
+
+Todas as funcionalidades devem ser implementadas em JavaScript puro ou código que possa ser executado diretamente no navegador.
+
+Não criar código incompleto.
+
+Não colocar:
+
+// implementar depois
+
+ou:
+
+// TODO
+
+Toda função solicitada deve ser implementada.
+
+---
+
+ARMAZENAMENTO
+
+Quando houver necessidade de salvar informações, utilizar:
+
+"localStorage"
+
+Os dados devem permanecer disponíveis após fechar e abrir novamente o navegador.
+
+Criar também mecanismos para:
+
+- salvar;
+- editar;
+- excluir;
+- limpar;
+- restaurar dados quando aplicável.
+
+---
+
+GITHUB PAGES
+
+O resultado deve ser compatível com GitHub Pages.
+
+O arquivo principal obrigatoriamente deve ser:
+
+"index.html"
+
+Não depender de caminhos absolutos.
+
+Usar caminhos relativos para arquivos locais.
+
+---
+
+SEO
+
+Adicionar:
+
+- título da página;
+- descrição;
+- viewport;
+- charset;
+- meta tags básicas;
+- Open Graph quando aplicável;
+- favicon quando possível.
+
+Exemplo:
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descrição do site">
+
+---
+
+ACESSIBILIDADE
+
+Implementar:
+
+- textos alternativos nas imagens;
+- labels nos campos;
+- contraste adequado;
+- botões identificáveis;
+- navegação por teclado;
+- "aria-label" quando necessário.
+
+---
+
+PERFORMANCE
+
+O site deve carregar rapidamente.
+
+Evitar:
+
+- bibliotecas desnecessárias;
+- scripts pesados;
+- imagens gigantes;
+- requisições externas desnecessárias.
+
+---
+
+SEGURANÇA
+
+Não armazenar senhas reais no código.
+
+Não expor chaves privadas.
+
+Não utilizar credenciais secretas no HTML.
+
+Validar dados inseridos pelo usuário.
+
+---
+
+EXPERIÊNCIA MOBILE
+
+Criar:
+
+- botões grandes o suficiente para toque;
+- menus adaptados;
+- elementos que não ultrapassem a tela;
+- fontes legíveis;
+- espaçamento adequado;
+- navegação simples.
+
+Não permitir rolagem horizontal acidental.
+
+---
+
+REGRA FINAL
+
+Você é responsável por gerar o código completo e funcional do "index.html".
+
+Não entregue apenas exemplos.
+
+Não entregue pseudocódigo.
+
+Não entregue trechos incompletos.
+
+Não peça para o usuário completar funções.
+
+Entregue o projeto final pronto para copiar para:
+
+"index.html"
+
+Depois de gerar o código, faça uma verificação lógica procurando:
+
+1. erros de HTML;
+2. erros de JavaScript;
+3. botões sem função;
+4. links quebrados;
+5. problemas de responsividade;
+6. problemas de armazenamento;
+7. problemas no GitHub Pages.
+
+Corrija os problemas encontrados antes de considerar o projeto concluído.
+
+---
+
+INSTRUÇÃO PARA O GERADOR
+
+Use o arquivo HTML fornecido pelo usuário como referência visual e funcional quando ele estiver disponível.
+
+Preserve as funcionalidades existentes.
+
+Não remova funcionalidades sem autorização.
+
+Melhore a organização do código quando necessário.
+
+O resultado final deve ser um único "index.html" completo, funcional e pronto para publicação no GitHub Pages.
